@@ -1,0 +1,1170 @@
+/* AZIZ MAULANA at 2022/11/30 16:38:10 */
+
+[for="aziz-menu"]>div>span:nth-child(4) {
+    border-top-left-radius: 0;
+}
+
+html {
+    width: 100%;
+}
+
+[class~=aziz-menu] {
+    width: 30%;
+}
+
+[for="aziz-menu"]>div>span:nth-child(4) {
+    border-bottom-left-radius: 0;
+}
+
+label[for="aziz-menu"] {
+    display: block;
+}
+
+[class~=aziz-menu],
+[class~=link-menusamping] {
+    height: 100%;
+}
+
+#aziz-menu:checked~div[class~=aziz-menu] {
+    transform: translate(0px);
+}
+
+[class~=aziz-menu],
+[class~=link-menusamping],
+[class~=link-menusamping],
+label[for="aziz-menu"] {
+    position: fixed;
+}
+
+[class~=link-menusamping],
+[class~=link-menusamping],
+[class~=aziz-menu] {
+    top: 0;
+}
+
+html {
+    min-height: auto;
+}
+
+[class~=link-menusamping],
+[class~=aziz-menu] {
+    visibility: hidden;
+}
+
+[class~=aziz-menu] {
+    transform: translate(-110%);
+}
+
+[class~=aziz-menu] {
+    z-index: 998;
+}
+
+label[for="aziz-menu"] {
+    top: .208333333in;
+}
+
+#aziz-menu:checked~div[class~=aziz-menu] {
+    visibility: visible;
+}
+
+#aziz-menu:checked+label span:nth-child(5),
+#aziz-menu:checked+label span:nth-child(2) {
+    transform: scale(0);
+}
+
+[class~=aziz-menu],
+label[for="aziz-menu"] {
+    background-color: #940000;
+}
+
+[class~=aziz-menu]>ul>li {
+    font-size: 13px;
+}
+
+label[for="aziz-menu"] {
+    right: 20px;
+}
+
+[class~=aziz-menu] {
+    transition: 1s;
+}
+
+[class~=aziz-menu] {
+    display: flex;
+}
+
+[for="aziz-menu"]>div>span:nth-child(4) {
+    border-top-right-radius: .125pc;
+}
+
+[class~=aziz-menu] {
+    justify-content: center;
+}
+
+[class~=aziz-menu] {
+    align-items: center;
+}
+
+label[for="aziz-menu"] {
+    z-index: 999;
+}
+
+[class~=aziz-menu] {
+    font-weight: bold;
+}
+
+[class~=aziz-menu] {
+    text-align: center;
+}
+
+[for="aziz-menu"]>div>span:nth-child(4) {
+    border-bottom-right-radius: .125pc;
+}
+
+[class~=aziz-menu],
+label[for="aziz-menu"] {
+    border-right-width: .125pc;
+}
+
+label[for="aziz-menu"] {
+    width: 60px;
+}
+
+label[for="aziz-menu"],
+[class~=aziz-menu] {
+    border-right-style: groove;
+}
+
+html {
+    font-size: .260416667in;
+}
+
+[for="aziz-menu"]>div>span:nth-child(4) {
+    transform-origin: left center;
+}
+
+[class~=aziz-menu],
+label[for="aziz-menu"] {
+    border-right-color: #ff0;
+}
+
+[class~=aziz-menu] {
+    border-image: none;
+}
+
+html {
+    font-family: "kausuhan";
+}
+
+[class~=link-menusamping],
+[class~=link-menusamping] {
+    left: 0;
+}
+
+label[for="aziz-menu"] {
+    height: 60px;
+}
+
+body,
+[class~=link-menusamping] {
+    width: 100%;
+}
+
+label[for="aziz-menu"] {
+    border-radius: .15625in;
+}
+
+html {
+    background-image: url("/aziz-maulana/gambar/wp2757880-wallpaper-gif.gif");
+}
+
+[class~=link-menusamping] {
+    z-index: 997;
+}
+
+label[for="aziz-menu"] {
+    border-left-width: 1.5pt;
+}
+
+html {
+    margin-left: auto;
+}
+
+[class~=link-menusamping] {
+    opacity: 0;
+}
+
+html {
+    margin-bottom: auto;
+}
+
+[for="aziz-menu"]>div>span:nth-child(5) {
+    border-top-left-radius: 0;
+}
+
+label[for="aziz-menu"] {
+    border-bottom-width: 1.5pt;
+}
+
+[class~=link-menusamping] {
+    display: none;
+}
+
+#aziz-menu:checked~div[class~=link-menusamping],
+[class~=azizlogo],
+.daftar-menu {
+    display: block;
+}
+
+html {
+    margin-right: auto;
+}
+
+[class~=link-menusamping],
+.daftar-menu {
+    transition: 500ms;
+}
+
+label[for="aziz-menu"] {
+    border-top-width: 1.5pt;
+}
+
+label[for="aziz-menu"] {
+    border-left-style: groove;
+}
+
+label[for="aziz-menu"] {
+    border-bottom-style: groove;
+}
+
+html {
+    margin-top: auto;
+}
+
+label[for="aziz-menu"] {
+    border-top-style: groove;
+}
+
+label[for="aziz-menu"] {
+    border-left-color: #ff0;
+}
+
+html {
+    background-repeat: no-repeat;
+}
+
+label[for="aziz-menu"] {
+    border-bottom-color: #ff0;
+}
+
+#aziz-menu:checked~div[class~=link-menusamping] {
+    opacity: 1;
+}
+
+html {
+    background-size: cover;
+}
+
+html {
+    background-position: center;
+}
+
+[for="aziz-menu"]>div>span:nth-child(5) {
+    border-bottom-left-radius: 0;
+}
+
+#aziz-menu:checked~div[class~=link-menusamping] {
+    visibility: visible;
+}
+
+html {
+    background-attachment: fixed;
+}
+
+.daftar-menu {
+    width: .177083333in;
+}
+
+[class~=imag],
+html {
+    scroll-behavior: smooth;
+}
+
+[for="aziz-menu"]>div>span:nth-child(5) {
+    border-top-right-radius: .125pc;
+}
+
+.daftar-menu {
+    height: .020833333in;
+}
+
+label[for="aziz-menu"] {
+    border-top-color: #ff0;
+}
+
+label[for="aziz-menu"] {
+    border-image: none;
+}
+
+#aziz-menu:checked+label span:nth-child(1) {
+    transform: translateY(17px) rotate(45deg);
+}
+
+#aziz-menu:checked+label span:nth-child(4) {
+    transform: translateY(17px) rotate(-45deg);
+}
+
+.daftar-menu {
+    margin-left: 0;
+}
+
+[class~=menu-kotak],
+[for="aziz-menu"]>div,
+[class~=aziz-menu]>ul {
+    display: flex;
+}
+
+.daftar-menu {
+    margin-bottom: .3125pc;
+}
+
+.daftar-menu {
+    margin-right: 0;
+}
+
+.daftar-menu {
+    margin-top: .104166667in;
+}
+
+.daftar-menu {
+    border-top-left-radius: 1.5pt;
+}
+
+[class~=aziz-menu]>ul>li {
+    white-space: nowrap;
+}
+
+.daftar-menu {
+    border-bottom-left-radius: .020833333in;
+}
+
+.daftar-menu,
+#aziz-menu:checked+label span {
+    background-color: #ff0;
+}
+
+body {
+    min-height: auto;
+}
+
+.daftar-menu {
+    transform-origin: right center;
+}
+
+[for="aziz-menu"]>div>span:nth-child(5) {
+    border-bottom-right-radius: .125pc;
+}
+
+[class~=azizlogo] {
+    margin-left: auto;
+}
+
+[class~=azizlogo] {
+    margin-right: auto;
+}
+
+[class~=azizlogo] {
+    margin-top: auto;
+}
+
+[class~=azizlogo] {
+    margin-bottom: auto;
+}
+
+[class~=azizlogo] {
+    width: 50%;
+}
+
+[class~=aziz-menu]>ul {
+    flex-flow: column nowrap;
+}
+
+[class~=imag] {
+    width: .9375in;
+}
+
+[class~=aziz-menu]>ul {
+    justify-content: space-around;
+}
+
+#aziz-menu:checked+label span:nth-child(3) {
+    transform: translateY(-17px) rotate(-45deg);
+}
+
+[class~=imag] {
+    height: 5.625pc;
+}
+
+[class~=blogspot] {
+    border-radius: .9375pc;
+}
+
+[class~=blogspot],
+[class~=menu-kotak]>div {
+    border-left-width: .052083333in;
+}
+
+[class~=blogspot] {
+    border-bottom-width: .052083333in;
+}
+
+[class~=blogspot] {
+    border-right-width: .052083333in;
+}
+
+body {
+    font-size: .260416667in;
+}
+
+[class~=aziz-menu]>ul {
+    padding-left: .208333333in;
+}
+
+[class~=blogspot] {
+    border-top-width: .052083333in;
+}
+
+[class~=aziz-menu]>ul {
+    padding-bottom: .208333333in;
+}
+
+body {
+    font-family: "kausuhan";
+}
+
+[class~=blogspot] {
+    border-left-style: groove;
+}
+
+body {
+    background-image: url("/aziz-maulana/gambar/wp2757880-wallpaper-gif.gif");
+}
+
+[class~=aziz-menu]>ul {
+    padding-right: .208333333in;
+}
+
+[class~=blogspot] {
+    border-bottom-style: groove;
+}
+
+[class~=aziz-menu]>ul {
+    padding-top: .208333333in;
+}
+
+[class~=blogspot] {
+    border-right-style: groove;
+}
+
+[class~=blogspot] {
+    border-top-style: groove;
+}
+
+[for="aziz-menu"]>div>span:nth-child(5) {
+    transform-origin: left center;
+}
+
+[class~=blogspot] {
+    border-left-color: yellow;
+}
+
+[class~=aziz-menu]>ul {
+    height: 1%;
+}
+
+[class~=blogspot] {
+    border-bottom-color: yellow;
+}
+
+body {
+    margin-left: auto;
+}
+
+body {
+    margin-bottom: auto;
+}
+
+[for="aziz-menu"]>div,
+[class~=menu-kotak]>div {
+    width: 100%;
+}
+
+[for="aziz-menu"]>div {
+    height: 100%;
+}
+
+[class~=blogspot] {
+    border-right-color: yellow;
+}
+
+[class~=blogspot] {
+    border-top-color: yellow;
+}
+
+[class~=blogspot] {
+    border-image: none;
+}
+
+body {
+    margin-right: auto;
+}
+
+body {
+    margin-top: auto;
+}
+
+[class~=blogspot],
+[class~=tutorial] {
+    background-color: rgba(128, 0, 0, .507);
+}
+
+body {
+    background-repeat: no-repeat;
+}
+
+[for="aziz-menu"]>div {
+    flex-flow: column wrap;
+}
+
+[for="aziz-menu"]>div>span:nth-child(6) {
+    border-top-left-radius: 0;
+}
+
+[for="aziz-menu"]>div {
+    align-content: center;
+}
+
+[for="aziz-menu"]>div {
+    align-items: center;
+}
+
+[class~=tutorial],
+[class~=blogspot] {
+    margin-left: 5%;
+}
+
+[class~=blogspot],
+[class~=tutorial] {
+    margin-right: 5%;
+}
+
+[class~=blogspot],
+[class~=tutorial] {
+    padding-left: 3.75pt;
+}
+
+[for="aziz-menu"]>div>span:nth-child(6) {
+    border-bottom-left-radius: 0;
+}
+
+body {
+    background-size: cover;
+}
+
+body {
+    background-position: center;
+}
+
+#aziz-menu:checked+label span:nth-child(6) {
+    transform: translateY(-17px) rotate(45deg);
+}
+
+[class~=tutorial],
+[class~=blogspot] {
+    padding-right: .052083333in;
+}
+
+[class~=aziz-menu]>ul>li {
+    letter-spacing: .15em;
+}
+
+[class~=blogspot],
+[class~=tutorial] {
+    padding-top: 0in;
+}
+
+[class~=tutorial],
+[class~=blogspot] {
+    padding-bottom: 0pc;
+}
+
+[class~=blogspot],
+[class~=tutorial],
+body,
+h1 {
+    scroll-behavior: smooth;
+}
+
+[class~=tutorial],
+[class~=shop] {
+    border-radius: .9375pc;
+}
+
+body {
+    background-attachment: fixed;
+}
+
+[class~=tutorial],
+[class~=menu-kotak]>div {
+    border-bottom-width: .3125pc;
+}
+
+[class~=tutorial] {
+    border-left-width: .052083333in;
+}
+
+[class~=tutorial],
+[class~=menu-kotak]>div {
+    border-right-width: .052083333in;
+}
+
+[class~=tutorial],
+[class~=menu-kotak]>div {
+    border-top-width: .052083333in;
+}
+
+[for="aziz-menu"]>div>span:nth-child(6) {
+    border-top-right-radius: .125pc;
+}
+
+[class~=tutorial],
+[class~=menu-kotak]>div {
+    border-left-style: groove;
+}
+
+[class~=menu-kotak]>div,
+[class~=tutorial] {
+    border-bottom-style: groove;
+}
+
+[class~=menu-kotak]>div,
+[class~=tutorial] {
+    border-right-style: groove;
+}
+
+[class~=tutorial],
+[class~=menu-kotak]>div {
+    border-top-style: groove;
+}
+
+[class~=menu-kotak]>div,
+[class~=tutorial] {
+    border-left-color: yellow;
+}
+
+[class~=menu-kotak]>div,
+[class~=tutorial] {
+    border-bottom-color: yellow;
+}
+
+[class~=tutorial],
+[class~=menu-kotak]>div {
+    border-right-color: yellow;
+}
+
+[class~=tutorial],
+[class~=menu-kotak]>div {
+    border-top-color: yellow;
+}
+
+[class~=tutorial],
+[class~=menu-kotak]>div {
+    border-image: none;
+}
+
+[for="aziz-menu"]>div>span:nth-child(6) {
+    border-bottom-right-radius: .125pc;
+}
+
+a {
+    font-family: "kausuhan";
+}
+
+a {
+    display: inline;
+}
+
+[for="aziz-menu"]>div>span:nth-child(6) {
+    transform-origin: left center;
+}
+
+a {
+    font-weight: bold;
+}
+
+[class~=shop] {
+    border-left-width: .052083333in;
+}
+
+[class~=shop] {
+    border-bottom-width: .052083333in;
+}
+
+[class~=shop] {
+    border-right-width: .052083333in;
+}
+
+a {
+    text-decoration: none;
+}
+
+[class~=shop],
+[class~=menu-kotak]>div {
+    background-color: rgba(128, 0, 0, .507);
+}
+
+[class~=menu-kotak]>div {
+    margin-left: .083333333in;
+}
+
+.harga,
+a {
+    color: white;
+}
+
+[class~=shop] {
+    border-top-width: .052083333in;
+}
+
+[class~=shop] {
+    border-left-style: groove;
+}
+
+[class~=shop] {
+    border-bottom-style: groove;
+}
+
+h1,
+h4,
+[class~=menu-kotak]>div {
+    text-align: center;
+}
+
+h1 {
+    background-color: yellow;
+}
+
+[class~=menu-kotak]>div {
+    margin-bottom: .083333333in;
+}
+
+[class~=menu-kotak]>div {
+    margin-right: .083333333in;
+}
+
+h1 {
+    color: #940000;
+}
+
+h1 {
+    border-radius: .9375pc;
+}
+
+[class~=shop] {
+    border-right-style: groove;
+}
+
+[class~=shop] {
+    border-top-style: groove;
+}
+
+h4,
+h1 {
+    font-style: italic;
+}
+
+[class~=menu-kotak]>div {
+    margin-top: .083333333in;
+}
+
+[class~=menu-kotak]>div {
+    padding-left: .5pc;
+}
+
+[class~=shop] {
+    border-left-color: yellow;
+}
+
+[class~=menu-kotak]>div {
+    padding-bottom: .5pc;
+}
+
+[class~=menu-kotak]>div {
+    padding-right: .5pc;
+}
+
+[class~=menu-kotak]>div {
+    padding-top: .5pc;
+}
+
+h1 {
+    font-family: autum;
+}
+
+h1 {
+    font-size: 18.75pt;
+}
+
+[class~=shop] {
+    border-bottom-color: yellow;
+}
+
+[class~=shop] {
+    border-right-color: yellow;
+}
+
+[class~=shop] {
+    border-top-color: yellow;
+}
+
+[class~=shop] {
+    border-image: none;
+}
+
+h4 {
+    color: white;
+}
+
+[class~=shop] {
+    margin-left: 5%;
+}
+
+[class~=shop] {
+    margin-right: 5%;
+}
+
+[class~=shop] {
+    padding-left: 3.75pt;
+}
+
+[class~=shop] {
+    padding-right: .052083333in;
+}
+
+[class~=shop] {
+    padding-top: 0in;
+}
+
+[class~=shop] {
+    padding-bottom: 0pc;
+}
+
+h4,
+[class~=shop] {
+    scroll-behavior: smooth;
+}
+
+.harga {
+    font-size: .166666667in;
+}
+
+.harga {
+    border-left-width: .010416667in;
+}
+
+h4 {
+    display: block;
+}
+
+.harga {
+    border-bottom-width: .010416667in;
+}
+
+.harga {
+    border-right-width: .010416667in;
+}
+
+.harga {
+    border-top-width: .010416667in;
+}
+
+.harga {
+    border-left-style: groove;
+}
+
+h4 {
+    font-size: 15px;
+}
+
+.harga {
+    border-bottom-style: groove;
+}
+
+.harga {
+    border-right-style: groove;
+}
+
+h4 {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.harga {
+    border-top-style: groove;
+}
+
+.harga {
+    border-left-color: yellow;
+}
+
+.harga {
+    border-bottom-color: yellow;
+}
+
+.harga {
+    border-right-color: yellow;
+}
+
+.harga {
+    border-top-color: yellow;
+}
+
+.harga {
+    border-image: none;
+}
+
+.harga {
+    background-color: rgba(11, 2, 97, .537);
+}
+
+#aziz-menu:checked+label {
+    background-color: transparent;
+}
+
+[class~=aziz-menu]>ul>li {
+    cursor: pointer;
+}
+
+#aziz-menu:checked+label {
+    border-left-color: #ff0;
+}
+
+[class~=aziz-menu]>ul>li {
+    color: #940000;
+}
+
+#aziz-menu {
+    display: none;
+}
+
+#aziz-menu:checked+label {
+    border-bottom-color: #ff0;
+}
+
+#aziz-menu:checked+label {
+    border-right-color: #ff0;
+}
+
+#aziz-menu:checked+label {
+    border-top-color: #ff0;
+}
+
+@media (min-width: 400px) and (max-width: 1300px) {
+    [class~=menu-kotak]>div {
+        width: 100%;
+    }
+    [class~=blogspot],
+    [class~=shop],
+    [class~=menu-kotak]>div,
+    [class~=tutorial] {
+        margin-left: 1%;
+    }
+    [class~=tutorial],
+    [class~=blogspot],
+    [class~=shop] {
+        width: auto;
+    }
+    [class~=shop],
+    [class~=blogspot],
+    [class~=menu-kotak]>div,
+    [class~=tutorial] {
+        margin-right: 1%;
+    }
+    [class~=tutorial],
+    [class~=blogspot],
+    [class~=shop],
+    [class~=menu-kotak]>div {
+        padding-left: 1%;
+    }
+    [class~=menu-kotak]>div,
+    [class~=blogspot],
+    [class~=tutorial],
+    [class~=shop] {
+        padding-right: 1%;
+    }
+    [class~=shop],
+    [class~=blogspot],
+    [class~=tutorial] {
+        flex-wrap: wrap;
+    }
+    [class~=tutorial],
+    [class~=shop],
+    [class~=blogspot] {
+        scroll-behavior: smooth;
+    }
+    h1 {
+        font-size: 20px;
+    }
+    [class~=harga],
+    h4 {
+        font-size: .135416667in;
+    }
+    [class~=menu-kotak] {
+        margin-left: auto;
+    }
+    [class~=menu-kotak] {
+        margin-bottom: auto;
+    }
+    [class~=menu-kotak] {
+        margin-right: auto;
+    }
+    [class~=menu-kotak] {
+        margin-top: auto;
+    }
+    [class~=menu-kotak] {
+        padding-left: auto;
+    }
+    a,
+    [class~=aziz-menu] {
+        font-size: auto;
+    }
+    [class~=menu-kotak] {
+        padding-bottom: auto;
+    }
+    [class~=menu-kotak] {
+        padding-right: auto;
+    }
+    [class~=menu-kotak] {
+        padding-top: auto;
+    }
+    [class~=aziz-menu] {
+        width: 60%;
+    }
+    [class~=azizlogo] {
+        width: 30%;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    [class~=tutorial],
+    [class~=blogspot],
+    [class~=shop] {
+        width: auto;
+    }
+    [class~=tutorial],
+    [class~=shop],
+    [class~=blogspot] {
+        font-size: 6pt;
+    }
+    [class~=blogspot],
+    [class~=shop],
+    .menu-kotak>div,
+    [class~=tutorial] {
+        margin-left: 1%;
+    }
+    [class~=blogspot],
+    .menu-kotak>div,
+    [class~=shop],
+    [class~=tutorial] {
+        margin-right: 1%;
+    }
+    [class~=tutorial],
+    [class~=blogspot],
+    .menu-kotak>div,
+    [class~=shop] {
+        padding-left: 1%;
+    }
+    [class~=tutorial],
+    .menu-kotak>div,
+    [class~=shop],
+    [class~=blogspot] {
+        padding-right: 1%;
+    }
+    .menu-kotak>div {
+        width: 100%;
+    }
+    [class~=blogspot],
+    [class~=tutorial],
+    [class~=shop] {
+        flex-wrap: wrap;
+    }
+    [class~=blogspot],
+    [class~=shop],
+    [class~=tutorial],
+    .imag {
+        scroll-behavior: smooth;
+    }
+    h1 {
+        font-size: 15pt;
+    }
+    h4 {
+        font-size: 8.25pt;
+    }
+    .imag {
+        width: .625in;
+    }
+    .imag {
+        height: .625in;
+    }
+    [class~=harga] {
+        font-size: 7.5pt;
+    }
+    .menu-kotak {
+        margin-left: auto;
+    }
+    .menu-kotak {
+        margin-bottom: auto;
+    }
+    .menu-kotak {
+        margin-right: auto;
+    }
+    .menu-kotak {
+        margin-top: auto;
+    }
+    .menu-kotak {
+        padding-left: auto;
+    }
+    .menu-kotak {
+        padding-bottom: auto;
+    }
+    .menu-kotak {
+        padding-right: auto;
+    }
+    .menu-kotak {
+        padding-top: auto;
+    }
+    [class~=aziz-menu] {
+        width: 60%;
+    }
+    [class~=aziz-menu],
+    a {
+        font-size: auto;
+    }
+    .azizlogo {
+        width: 30%;
+    }
+}
+
+@font-face {
+    font-family: "autum";
+    src: url("/aziz-maulana/font/autum.otf");
+}
+
+@font-face {
+    font-family: "kausuhan";
+    src: url("/aziz-maulana/font/kausuhan.otf");
+}
+
+@font-face {
+    font-family: "selena";
+    src: url("/aziz-maulana/font/Selena.ttf");
+}

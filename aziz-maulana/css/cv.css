@@ -1,0 +1,1113 @@
+/* AZIZ MAULANA at 2022/11/30 16:38:10 */
+
+[class~=aziz-menu] {
+    width: 30%;
+}
+
+[class~=aziz-menu],
+[class~=link-menusamping] {
+    height: 100%;
+}
+
+[class~=aziz-menu],
+label[for="aziz-menu"],
+[class~=link-menusamping],
+[class~=link-menusamping] {
+    position: fixed;
+}
+
+[class~=link-menusamping],
+html {
+    width: 100%;
+}
+
+html {
+    min-height: auto;
+}
+
+[class~=link-menusamping],
+[class~=aziz-menu],
+[class~=link-menusamping] {
+    top: 0;
+}
+
+[for="aziz-menu"]>div>span:nth-child(5),
+[for="aziz-menu"]>div>span:nth-child(4) {
+    border-top-left-radius: 0;
+}
+
+[for="aziz-menu"]>div>span:nth-child(4) {
+    border-bottom-left-radius: 0;
+}
+
+label[for="aziz-menu"] {
+    display: block;
+}
+
+[class~=aziz-menu],
+[class~=link-menusamping] {
+    visibility: hidden;
+}
+
+html {
+    font-size: 1.5625pc;
+}
+
+[class~=aziz-menu] {
+    transform: translate(-110%);
+}
+
+[class~=aziz-menu] {
+    z-index: 998;
+}
+
+label[for="aziz-menu"],
+[class~=aziz-menu] {
+    background-color: #940000;
+}
+
+[for="aziz-menu"]>div>span:nth-child(4) {
+    border-top-right-radius: 1.5pt;
+}
+
+[class~=aziz-menu] {
+    transition: 1s;
+}
+
+[class~=aziz-menu] {
+    display: flex;
+}
+
+html {
+    font-family: "kausuhan";
+}
+
+[class~=aziz-menu] {
+    justify-content: center;
+}
+
+label[for="aziz-menu"] {
+    top: .208333333in;
+}
+
+label[for="aziz-menu"] {
+    right: 15pt;
+}
+
+[class~=aziz-menu] {
+    align-items: center;
+}
+
+[class~=aziz-menu] {
+    font-weight: bold;
+}
+
+html {
+    background-image: url("/aziz-maulana/gambar/wp2757880-wallpaper-gif.gif");
+}
+
+[class~=aziz-menu] {
+    text-align: center;
+}
+
+html {
+    margin-left: auto;
+}
+
+[class~=aziz-menu] {
+    border-right-width: .125pc;
+}
+
+[class~=aziz-menu] {
+    border-right-style: groove;
+}
+
+[class~=aziz-menu] {
+    border-right-color: #ff0;
+}
+
+[class~=aziz-menu] {
+    border-image: none;
+}
+
+label[for="aziz-menu"] {
+    z-index: 999;
+}
+
+[for="aziz-menu"]>div>span:nth-child(4) {
+    border-bottom-right-radius: 1.5pt;
+}
+
+[class~=link-menusamping],
+[class~=link-menusamping] {
+    left: 0;
+}
+
+label[for="aziz-menu"] {
+    width: .625in;
+}
+
+[for="aziz-menu"]>div>span:nth-child(4) {
+    transform-origin: left center;
+}
+
+label[for="aziz-menu"] {
+    height: 3.75pc;
+}
+
+[class~=link-menusamping] {
+    z-index: 997;
+}
+
+html {
+    margin-bottom: auto;
+}
+
+label[for="aziz-menu"] {
+    border-radius: .15625in;
+}
+
+html {
+    margin-right: auto;
+}
+
+label[for="aziz-menu"] {
+    border-left-width: 1.5pt;
+}
+
+html {
+    margin-top: auto;
+}
+
+[class~=link-menusamping] {
+    opacity: 0;
+}
+
+[class~=link-menusamping] {
+    display: none;
+}
+
+[class~=daftar-menu],
+[class~=link-menusamping] {
+    transition: 500ms;
+}
+
+.azizlogo,
+[class~=daftar-menu] {
+    display: block;
+}
+
+html,
+[class~=cv1] {
+    background-repeat: no-repeat;
+}
+
+[for="aziz-menu"]>div>span:nth-child(5) {
+    border-bottom-left-radius: 0;
+}
+
+[class~=daftar-menu] {
+    width: 1.0625pc;
+}
+
+[class~=daftar-menu] {
+    height: .020833333in;
+}
+
+[class~=daftar-menu] {
+    margin-left: 0;
+}
+
+[class~=daftar-menu] {
+    margin-bottom: .052083333in;
+}
+
+[class~=daftar-menu] {
+    margin-right: 0;
+}
+
+.aziz-menu>ul>li {
+    font-size: .8125pc;
+}
+
+[class~=daftar-menu] {
+    margin-top: .625pc;
+}
+
+[class~=daftar-menu] {
+    border-top-left-radius: .125pc;
+}
+
+[for="aziz-menu"]>div>span:nth-child(5) {
+    border-top-right-radius: 1.5pt;
+}
+
+[class~=daftar-menu] {
+    border-bottom-left-radius: 1.5pt;
+}
+
+[class~=daftar-menu] {
+    background-color: #ff0;
+}
+
+[class~=daftar-menu] {
+    transform-origin: right center;
+}
+
+html {
+    background-size: cover;
+}
+
+#aziz-menu:checked~div.aziz-menu {
+    transform: translate(0px);
+}
+
+.azizlogo {
+    margin-left: auto;
+}
+
+.azizlogo {
+    margin-right: auto;
+}
+
+.azizlogo {
+    margin-top: auto;
+}
+
+.azizlogo {
+    margin-bottom: auto;
+}
+
+#aziz-menu:checked+label {
+    background-color: transparent;
+}
+
+.azizlogo {
+    width: 50%;
+}
+
+[class~=cv1] {
+    background-image: url("/aziz-maulana/gambar/logo.png");
+}
+
+label[for="aziz-menu"] {
+    border-bottom-width: 1.5pt;
+}
+
+html,
+[class~=cv1] {
+    background-position: center;
+}
+
+[class~=cv1] {
+    padding-left: .052083333in;
+}
+
+[class~=cv1] {
+    padding-right: 3.75pt;
+}
+
+[class~=cv1] {
+    padding-top: 110px;
+}
+
+[class~=cv1] {
+    padding-bottom: 110px;
+}
+
+label[for="aziz-menu"] {
+    border-right-width: 1.5pt;
+}
+
+html {
+    background-attachment: fixed;
+}
+
+label[for="aziz-menu"] {
+    border-top-width: 1.5pt;
+}
+
+body,
+[class~=cv1],
+html,
+.cv1a {
+    scroll-behavior: smooth;
+}
+
+[class~=cv1] {
+    background-size: 18.75pc;
+}
+
+[class~=cv1] {
+    margin-left: 42%;
+}
+
+[class~=cv1] {
+    margin-right: 42%;
+}
+
+[for="aziz-menu"]>div>span:nth-child(5) {
+    border-bottom-right-radius: 1.5pt;
+}
+
+[class~=cv2],
+.cv1a {
+    text-align: justify;
+}
+
+[for="aziz-menu"]>div>span:nth-child(5) {
+    transform-origin: left center;
+}
+
+.cv1a,
+[class~=cv2] {
+    color: white;
+}
+
+.cv1a,
+[class~=cv2] {
+    font-style: italic;
+}
+
+[class~=cv2],
+.cv1a {
+    margin-left: 10%;
+}
+
+[class~=cv2],
+.cv1a {
+    margin-right: 10%;
+}
+
+.cv1a,
+[class~=cv2] {
+    font-size: .208333333in;
+}
+
+.cv1a {
+    border-left-width: .052083333in;
+}
+
+.cv1a {
+    border-bottom-width: .052083333in;
+}
+
+.aziz-menu>ul>li {
+    white-space: nowrap;
+}
+
+body {
+    width: 100%;
+}
+
+body {
+    min-height: auto;
+}
+
+.cv1a {
+    border-right-width: .052083333in;
+}
+
+.aziz-menu>ul>li {
+    letter-spacing: .15em;
+}
+
+body {
+    font-size: 1.5625pc;
+}
+
+.cv1a {
+    border-top-width: .052083333in;
+}
+
+.cv1a,
+label[for="aziz-menu"] {
+    border-left-style: groove;
+}
+
+label[for="aziz-menu"],
+.cv1a {
+    border-bottom-style: groove;
+}
+
+.cv1a,
+label[for="aziz-menu"] {
+    border-right-style: groove;
+}
+
+body {
+    font-family: "kausuhan";
+}
+
+label[for="aziz-menu"],
+.cv1a {
+    border-top-style: groove;
+}
+
+.cv1a {
+    border-left-color: yellow;
+}
+
+.cv1a {
+    border-bottom-color: yellow;
+}
+
+.cv1a {
+    border-right-color: yellow;
+}
+
+.cv1a {
+    border-top-color: yellow;
+}
+
+.cv1a {
+    border-image: none;
+}
+
+#aziz-menu:checked+label,
+label[for="aziz-menu"] {
+    border-left-color: #ff0;
+}
+
+[class~=cv2],
+.cv1a {
+    padding-left: 15%;
+}
+
+[class~=cv2],
+.cv1a {
+    padding-right: 15%;
+}
+
+body {
+    background-image: url("/aziz-maulana/gambar/wp2757880-wallpaper-gif.gif");
+}
+
+#aziz-menu:checked+label span:nth-child(5),
+#aziz-menu:checked+label span:nth-child(2) {
+    transform: scale(0);
+}
+
+[for="aziz-menu"]>div>span:nth-child(6) {
+    border-top-left-radius: 0;
+}
+
+body {
+    margin-left: auto;
+}
+
+[class~=cv2],
+.cv1a {
+    padding-top: 10px;
+}
+
+.cv1a,
+[class~=cv2] {
+    padding-bottom: 10px;
+}
+
+[class~=cv2],
+.cv1a {
+    border-radius: 15pt;
+}
+
+.cv1a,
+[class~=cv2] {
+    background-color: rgba(128, 0, 0, .507);
+}
+
+#aziz-menu:checked+label span {
+    background-color: #ff0;
+}
+
+[for="aziz-menu"]>div>span:nth-child(6) {
+    border-bottom-left-radius: 0;
+}
+
+[class~=cv2] {
+    border-left-width: 3.75pt;
+}
+
+#aziz-menu:checked+label,
+label[for="aziz-menu"] {
+    border-bottom-color: #ff0;
+}
+
+[class~=cv2] {
+    border-bottom-width: 3.75pt;
+}
+
+[class~=cv2] {
+    border-right-width: 3.75pt;
+}
+
+[class~=cv2] {
+    border-top-width: 3.75pt;
+}
+
+[class~=cv2] {
+    border-left-style: groove;
+}
+
+[class~=cv2] {
+    border-bottom-style: groove;
+}
+
+[class~=cv2] {
+    border-right-style: groove;
+}
+
+[class~=cv2] {
+    border-top-style: groove;
+}
+
+body {
+    margin-bottom: auto;
+}
+
+[class~=cv2] {
+    border-left-color: yellow;
+}
+
+body {
+    margin-right: auto;
+}
+
+[class~=cv2] {
+    border-bottom-color: yellow;
+}
+
+body {
+    margin-top: auto;
+}
+
+[class~=cv2] {
+    border-right-color: yellow;
+}
+
+#aziz-menu:checked+label span:nth-child(1) {
+    transform: translateY(17px) rotate(45deg);
+}
+
+.aziz-menu>ul>li {
+    cursor: pointer;
+}
+
+body {
+    background-repeat: no-repeat;
+}
+
+[for="aziz-menu"]>div>span:nth-child(6) {
+    border-top-right-radius: 1.5pt;
+}
+
+label[for="aziz-menu"] {
+    border-right-color: #ff0;
+}
+
+[class~=cv2] {
+    border-top-color: yellow;
+}
+
+[class~=cv2] {
+    border-image: none;
+}
+
+body {
+    background-size: cover;
+}
+
+body {
+    background-position: center;
+}
+
+body {
+    background-attachment: fixed;
+}
+
+[class~=cv2] {
+    scroll-behavior: smooth;
+}
+
+#aziz-menu:checked+label span:nth-child(4) {
+    transform: translateY(17px) rotate(-45deg);
+}
+
+[class~=cv3] {
+    text-align: justify;
+}
+
+a,
+[class~=cv3] {
+    color: white;
+}
+
+a {
+    font-size: 13.5pt;
+}
+
+[class~=cv3] {
+    font-style: italic;
+}
+
+a {
+    font-family: "kausuhan";
+}
+
+[class~=cv3] {
+    margin-left: 10%;
+}
+
+[class~=cv3] {
+    margin-right: 10%;
+}
+
+[class~=cv3] {
+    font-size: 1.25pc;
+}
+
+[class~=cv3] {
+    border-left-width: .3125pc;
+}
+
+[class~=cv3] {
+    border-bottom-width: .3125pc;
+}
+
+a {
+    display: inline;
+}
+
+label[for="aziz-menu"] {
+    border-top-color: #ff0;
+}
+
+[class~=cv3] {
+    border-right-width: .3125pc;
+}
+
+[class~=cv3] {
+    border-top-width: .3125pc;
+}
+
+[for="aziz-menu"]>div>span:nth-child(6) {
+    border-bottom-right-radius: 1.5pt;
+}
+
+label[for="aziz-menu"] {
+    border-image: none;
+}
+
+a {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
+
+[class~=cv3] {
+    border-left-style: groove;
+}
+
+[for="aziz-menu"]>div>span:nth-child(6) {
+    transform-origin: left center;
+}
+
+[class~=cv3] {
+    border-bottom-style: groove;
+}
+
+a {
+    padding-left: 5.25pt;
+}
+
+[class~=cv3] {
+    border-right-style: groove;
+}
+
+[class~=cv3] {
+    border-top-style: groove;
+}
+
+[class~=cv3] {
+    border-left-color: yellow;
+}
+
+[class~=cv3] {
+    border-bottom-color: yellow;
+}
+
+.aziz-menu>ul,
+[for="aziz-menu"]>div {
+    display: flex;
+}
+
+a {
+    padding-bottom: 5.25pt;
+}
+
+#aziz-menu {
+    display: none;
+}
+
+[class~=cv3] {
+    border-right-color: yellow;
+}
+
+[class~=cv3] {
+    border-top-color: yellow;
+}
+
+.aziz-menu>ul {
+    flex-flow: column nowrap;
+}
+
+[class~=cv3] {
+    border-image: none;
+}
+
+.aziz-menu>ul {
+    justify-content: space-around;
+}
+
+a {
+    padding-right: 5.25pt;
+}
+
+[class~=cv3] {
+    padding-left: 15%;
+}
+
+a {
+    padding-top: 5.25pt;
+}
+
+.aziz-menu>ul {
+    padding-left: .208333333in;
+}
+
+.aziz-menu>ul {
+    padding-bottom: .208333333in;
+}
+
+[class~=cv3] {
+    padding-right: 15%;
+}
+
+[class~=cv3] {
+    padding-top: .625pc;
+}
+
+[class~=cv3] {
+    padding-bottom: 10px;
+}
+
+[class~=cv3] {
+    border-radius: .208333333in;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1,
+.aziz-menu>ul>li {
+    color: #940000;
+}
+
+#aziz-menu:checked+label {
+    border-right-color: #ff0;
+}
+
+#aziz-menu:checked~div.link-menusamping,
+#aziz-menu:checked~div.aziz-menu {
+    visibility: visible;
+}
+
+[class~=cv3] {
+    background-color: rgba(128, 0, 0, .507);
+}
+
+h1,
+[class~=cv3] {
+    scroll-behavior: smooth;
+}
+
+h1 {
+    background-color: yellow;
+}
+
+#aziz-menu:checked+label span:nth-child(3) {
+    transform: translateY(-17px) rotate(-45deg);
+}
+
+#aziz-menu:checked+label span:nth-child(6) {
+    transform: translateY(-17px) rotate(45deg);
+}
+
+h1 {
+    font-style: italic;
+}
+
+h1 {
+    font-size: 2.5pc;
+}
+
+.aziz-menu>ul {
+    padding-right: .208333333in;
+}
+
+h1 {
+    font-family: "autum";
+}
+
+#aziz-menu:checked~div.link-menusamping {
+    display: block;
+}
+
+.aziz-menu>ul {
+    padding-top: .208333333in;
+}
+
+#aziz-menu:checked+label {
+    border-top-color: #ff0;
+}
+
+#aziz-menu:checked~div.link-menusamping {
+    opacity: 1;
+}
+
+.aziz-menu>ul {
+    height: 1%;
+}
+
+[for="aziz-menu"]>div {
+    width: 100%;
+}
+
+[for="aziz-menu"]>div {
+    height: 100%;
+}
+
+[for="aziz-menu"]>div {
+    flex-flow: column wrap;
+}
+
+[for="aziz-menu"]>div {
+    align-content: center;
+}
+
+[for="aziz-menu"]>div {
+    align-items: center;
+}
+
+@media (min-width: 400px) and (max-width: 1300px) {
+    .cv1 {
+        width: 100%;
+    }
+    .cv1 {
+        background-size: 40%;
+    }
+    .cv1 {
+        padding-top: 20%;
+    }
+    .cv1 {
+        padding-bottom: 20%;
+    }
+    .cv1 {
+        margin-left: 0pt;
+    }
+    [class~=cv1a],
+    a,
+    [class~=cv3],
+    h1,
+    [class~=cv3a],
+    [class~=cv2],
+    [class~=cv2a] {
+        width: auto;
+    }
+    h1 {
+        font-size: 25px;
+    }
+    .cv1 {
+        margin-right: 0pt;
+    }
+    [class~=cv3a],
+    [class~=cv3],
+    .cv1,
+    [class~=cv1a],
+    [class~=cv2],
+    h1,
+    [class~=cv2a] {
+        scroll-behavior: smooth;
+    }
+    [class~=cv2],
+    [class~=cv3],
+    [class~=cv3a],
+    [class~=cv1a],
+    [class~=cv2a] {
+        font-size: 7.5pt;
+    }
+    [class~=cv2a],
+    [class~=cv1a],
+    [class~=cv3],
+    [class~=cv3a],
+    [class~=cv2] {
+        margin-left: 1%;
+    }
+    [class~=cv3a],
+    [class~=cv2],
+    [class~=cv1a],
+    [class~=cv2a],
+    [class~=cv3] {
+        margin-right: 1%;
+    }
+    [class~=cv1a] {
+        padding-left: 5%;
+    }
+    h1 {
+        margin-left: 0%;
+    }
+    [class~=cv1a] {
+        padding-right: 5%;
+    }
+    h1 {
+        margin-right: 0%;
+    }
+    h1 {
+        margin-top: 20px;
+    }
+    [class~=cv2a],
+    [class~=cv3a],
+    [class~=cv3],
+    [class~=cv2] {
+        padding-left: 1%;
+    }
+    [class~=cv2a],
+    [class~=cv3],
+    [class~=cv3a],
+    [class~=cv2] {
+        padding-right: 1%;
+    }
+    a {
+        font-size: auto;
+    }
+    [class~=azizlogo] {
+        width: 40%;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    [class~=cv1] {
+        width: 100%;
+    }
+    [class~=cv1] {
+        background-size: 40%;
+    }
+    [class~=cv3],
+    [class~=cv1a],
+    h1,
+    [class~=cv3a],
+    [class~=cv2a],
+    .cv2 {
+        width: auto;
+    }
+    [class~=cv1] {
+        padding-top: 20%;
+    }
+    [class~=cv1] {
+        padding-bottom: 20%;
+    }
+    [class~=cv1] {
+        margin-left: 0in;
+    }
+    h1 {
+        font-size: 25px;
+    }
+    [class~=cv1] {
+        margin-right: 0px;
+    }
+    [class~=cv1a],
+    [class~=cv3a],
+    [class~=cv1],
+    h1,
+    [class~=cv3],
+    .cv2,
+    [class~=cv2a] {
+        scroll-behavior: smooth;
+    }
+    [class~=cv2a],
+    [class~=cv1a],
+    [class~=cv3a],
+    [class~=cv3],
+    .cv2 {
+        font-size: .625pc;
+    }
+    [class~=cv2a],
+    [class~=cv1a],
+    .cv2,
+    [class~=cv3a],
+    [class~=cv3] {
+        margin-left: 1%;
+    }
+    h1 {
+        margin-left: 0%;
+    }
+    [class~=cv1a],
+    [class~=cv3a],
+    [class~=cv2a],
+    [class~=cv3],
+    .cv2 {
+        margin-right: 1%;
+    }
+    [class~=cv1a] {
+        padding-left: 5%;
+    }
+    [class~=cv1a] {
+        padding-right: 5%;
+    }
+    [class~=cv3],
+    .cv2,
+    [class~=cv3a],
+    [class~=cv2a] {
+        padding-left: 1%;
+    }
+    [class~=cv2a],
+    .cv2,
+    [class~=cv3],
+    [class~=cv3a] {
+        padding-right: 1%;
+    }
+    h1 {
+        margin-right: 0%;
+    }
+    h1 {
+        margin-top: 15pt;
+    }
+    [class~=aziz-menu],
+    a {
+        font-size: auto;
+    }
+    [class~=aziz-menu] {
+        width: 60%;
+    }
+    [class~=azizlogo] {
+        width: 30%;
+    }
+}
+
+@font-face {
+    font-family: "autum";
+    src: url("/aziz-maulana/font/autum.otf");
+}
+
+@font-face {
+    font-family: "kausuhan";
+    src: url("/aziz-maulana/font/kausuhan.otf");
+}
+
+@font-face {
+    font-family: "selena";
+    src: url("/aziz-maulana/font/Selena.ttf");
+}
